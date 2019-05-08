@@ -11,10 +11,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/mattn/anko/core"
-	"github.com/mattn/anko/packages"
-	"github.com/mattn/anko/parser"
-	"github.com/mattn/anko/vm"
+	"github.com/complyue/anko/core"
+	"github.com/complyue/anko/packages"
+	"github.com/complyue/anko/parser"
+	"github.com/complyue/anko/vm"
 )
 
 const version = "0.1.2"

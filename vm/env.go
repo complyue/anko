@@ -7,8 +7,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/mattn/anko/ast"
-	"github.com/mattn/anko/parser"
+	"github.com/complyue/anko/ast"
+	"github.com/complyue/anko/parser"
 )
 
 // EnvResolver provides an interface for extrenal values and types

@@ -4,8 +4,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/mattn/anko/internal/corelib"
-	"github.com/mattn/anko/vm"
+	"github.com/complyue/anko/internal/corelib"
+	"github.com/complyue/anko/vm"
 )
 
 var testPackagesEnvSetupFunc = func(t *testing.T, env corelib.Env) { DefineImport(env.(*vm.Env)) }

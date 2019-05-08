@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/mattn/anko/vm"
+	"github.com/complyue/anko/vm"
 )
 
 func ExampleEnv_ExecuteContext() {

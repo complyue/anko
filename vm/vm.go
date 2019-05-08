@@ -7,8 +7,8 @@ import (
 	"os"
 	"reflect"
 
-	"github.com/mattn/anko/ast"
-	"github.com/mattn/anko/internal/corelib"
+	"github.com/complyue/anko/ast"
+	"github.com/complyue/anko/internal/corelib"
 )
 
 type (

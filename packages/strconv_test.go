@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/mattn/anko/internal/testlib"
+	"github.com/complyue/anko/internal/testlib"
 )
 
 func TestStrconv(t *testing.T) {

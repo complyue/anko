@@ -3,8 +3,8 @@ package testlib
 import (
 	"testing"
 
-	"github.com/mattn/anko/internal/corelib"
-	"github.com/mattn/anko/parser"
+	"github.com/complyue/anko/internal/corelib"
+	"github.com/complyue/anko/parser"
 )
 
 // Test is utility struct to make tests easy.

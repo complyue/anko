@@ -7,10 +7,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/mattn/anko/internal/corelib"
-	"github.com/mattn/anko/internal/testlib"
-	"github.com/mattn/anko/packages"
-	"github.com/mattn/anko/vm"
+	"github.com/complyue/anko/internal/corelib"
+	"github.com/complyue/anko/internal/testlib"
+	"github.com/complyue/anko/packages"
+	"github.com/complyue/anko/vm"
 )
 
 var testCoreEnvSetupFunc = func(t *testing.T, env corelib.Env) { Import(env.(*vm.Env)) }

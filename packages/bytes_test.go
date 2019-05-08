@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/mattn/anko/internal/testlib"
+	"github.com/complyue/anko/internal/testlib"
 )
 
 func TestBytes(t *testing.T) {

@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mattn/anko/internal/testlib"
+	"github.com/complyue/anko/internal/testlib"
 )
 
 func TestReturns(t *testing.T) {

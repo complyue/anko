@@ -7,8 +7,8 @@ import (
 	"os"
 	"reflect"
 
-	"github.com/mattn/anko/parser"
-	"github.com/mattn/anko/vm"
+	"github.com/complyue/anko/parser"
+	"github.com/complyue/anko/vm"
 )
 
 // Import defines core language builtins - keys, range, println,  etc.
